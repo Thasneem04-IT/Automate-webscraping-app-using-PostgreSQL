@@ -1,6 +1,6 @@
 
 
-# Web Scraping and Data Extraction using Ollama LLM
+# Real time market research automation
 
 This project is designed to scrape websites, extract relevant company information (like description, products/services, use cases, customers, and partners), and store the extracted data in a PostgreSQL database. It leverages **Ollama LLM** for natural language processing, and **BeautifulSoup** for scraping website content.
 
